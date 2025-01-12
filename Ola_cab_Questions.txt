@@ -1,0 +1,30 @@
+SQL Project - OLA Use Cases Data Analysis and Insights QUESTIONS:
+1. Extract all data from the `trips` table. 
+2. Extract all data from the `trips_details4` table. 
+3. Extract all data from the `loc` table. 
+4. Extract all data from the `duration` table. 
+5. Extract all data from the `payment` table. 
+6. What is the total number of trips?
+7. What is the total number of drivers?
+8. What is the total earnings?
+9. How many trips were completed?
+10. What is the total number of searches?
+11. How many searches received estimates?
+12. How many searches resulted in quotes?
+13. How many quotes were received?
+14. How many trips were canceled by drivers?
+15. How many trips were canceled by customers?
+16. How many OTPs were entered?
+17. How many rides were completed?
+18. What is the average distance per trip?
+19. What is the average fare per trip?
+20. What is the most distance traveled in a trip?
+21. What is the most used payment method?
+22. What is the payment method for the highest fare?
+23. Which two locations had the most trips?
+24. Who are the top 5 earning drivers?
+25. Which duration had the most trips?
+26. Which driver-customer pair had the most orders?
+27. What is the search to estimate rate?
+28. Which area had the highest trips during a specific duration?
+29. Which area had the highest fares?
