@@ -3,48 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SQL Project - OLA Use Cases</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background: #fff;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        li {
-            margin: 10px 0;
-            padding: 10px;
-            background: #f9f9f9;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-        }
-        code {
-            background: #eef;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-    </style>
+
 </head>
 <body>
+    <h1>Overview</h1>
+<h1>SQL Project - OLA Use Cases</h1>
+    
+This document provides details on how to extract and analyze data from the database schema represented in the image. The schema includes several tables: trips, trips_details1, trips_details2, trips_details3, trips_details4, loc, duration, and payment. The relationships and structure of these tables are outlined below, followed by instructions on how to answer specific queries.
     <div class="container">
-        <h1>SQL Project - OLA Use Cases</h1>
         <h2>Data Analysis and Insights</h2>
         <p>Below are the questions to analyze the data:</p>
         <ul>
