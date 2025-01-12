@@ -68,9 +68,6 @@
         <p>By the end of this project, participants will have a deeper understanding of:</p>
         <ul>
             <li>SQL querying techniques for data extraction and analysis.</li>
-            <li>Data manipulation and exploratory data analysis.</li>
-            <li>Visualization techniques for presenting insights.</li>
-            <li>Basic machine learning techniques for predictive modeling and clustering.</li>
         </ul>
         <p>This project serves as a comprehensive exercise in data analysis and provides a real-world application of analytics skills using a music streaming dataset.</p>
     </div>
