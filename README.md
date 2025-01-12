@@ -29,13 +29,13 @@
             <li><code>bpm</code>: Beats per minute</li>
             <li><code>key</code>: Key of the track</li>
             <li><code>mode</code>: Mode of the track (major/minor)</li>
-            <li><code>danceability_%</code>: Danceability percentage</li>
-            <li><code>valence_%</code>: Valence percentage (positivity of the track)</li>
-            <li><code>energy_%</code>: Energy percentage</li>
-            <li><code>acousticness_%</code>: Acousticness percentage</li>
-            <li><code>instrumentalness_%</code>: Instrumentalness percentage</li>
-            <li><code>liveness_%</code>: Liveness percentage</li>
-            <li><code>speechiness_%</code>: Speechiness percentage</li>
+            <li><code>danceability_perc</code>: Danceability percentage</li>
+            <li><code>valence_perc</code>: Valence percentage (positivity of the track)</li>
+            <li><code>energy_perc</code>: Energy percentage</li>
+            <li><code>acousticness_perc</code>: Acousticness percentage</li>
+            <li><code>instrumentalness_perc</code>: Instrumentalness percentage</li>
+            <li><code>liveness_perc</code>: Liveness percentage</li>
+            <li><code>speechiness_perc</code>: Speechiness percentage</li>
         </ul>
         <h2>Analysis Questions</h2>
         <ul>
